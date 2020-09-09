@@ -1,0 +1,6 @@
+Search Query,Document containing term(df),Total Documents(N)/Document containing term(df),LOG10(N/df)
+canada,17,8.24,0.92
+university,4,35.0,1.54
+dalhousie university,1,140.0,2.15
+business,2,70.0,1.85
+halifax,3,46.67,1.67
